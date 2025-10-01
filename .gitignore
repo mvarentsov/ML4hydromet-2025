@@ -1,0 +1,18 @@
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+examples/catboost_info/catboost_training.json
+examples/catboost_info/learn_error.tsv
+examples/catboost_info/time_left.tsv
+examples/catboost_info/learn/events.out.tfevents
+animation.gif
+examples/catboost_info/tmp/cat_feature_index.1a525326-3142c3e4-4db2a182-58ff73ae.tmp
+examples/Lect06c_CV_real_data_DCIPP.ipynb
