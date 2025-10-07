@@ -10,6 +10,8 @@
 
 | Название | Дата | Тема | Материалы |
 | ----- | ---- | ----- | ------- |
+| Лекция 1а | 06.10.2025 | Орг. вопросы<br />Введение в машинное обучение | [видеозапись](https://ml4es.ru/links/2025-10-06-msu-ml4hydromet-lect01a)<br />[материалы: слайды-1](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01_MV.pdf)<br />[материалы: слайды-2](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01-MK.pdf) |
+| Лекция 1б | 06.10.2025 | Введение в машинное обучение                   | [видеозапись](https://ml4es.ru/links/2025-10-06-msu-ml4hydromet-lect01b)<br />[материалы: слайды-1](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01_MV.pdf)<br />[материалы: слайды-2](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01-MK.pdf) |
 
 ## Домашние работы
 Все работы следует оформлять в виде файлов Jupiter Notebook, включающих исходный код, результаты (графики, таблицы и пр.) и текстовые пояснения в формате Markdown.
