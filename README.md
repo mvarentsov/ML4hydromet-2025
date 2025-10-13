@@ -24,7 +24,7 @@
 | Номер | Название | Срок сдачи | Материалы |
 | ---- | ---- | ----- | ------- 
 | 1 | Постановка задачи МО | ~13.10.2025~ <br /> 20.10.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW1_description.md) |
-| 2 | Разведовательный анализ данных | 20.10.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW2_description.md) |
+| 2 | Разведочный анализ данных | 20.10.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW2_description.md) |
 
 
 ## Готовые коллекции данных для выполнения практических работ
