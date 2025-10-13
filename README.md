@@ -10,15 +10,21 @@
 
 | Название | Дата | Тема | Материалы |
 | ----- | ---- | ----- | ------- |
-| Лекция 1а | 06.10.2025 | Орг. вопросы<br />Введение в машинное обучение | [видеозапись](https://ml4es.ru/links/2025-10-06-msu-ml4hydromet-lect01a)<br />[материалы: слайды-1](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01_MV.pdf)<br />[материалы: слайды-2](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01-MK.pdf) |
-| Лекция 1б | 06.10.2025 | Введение в машинное обучение                   | [видеозапись](https://ml4es.ru/links/2025-10-06-msu-ml4hydromet-lect01b)<br />[материалы: слайды-1](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01_MV.pdf)<br />[материалы: слайды-2](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01-MK.pdf) |
+| Занятие 1 | 06.10.2025 | Организационные вопросы.<br />Введение в машинное обучение. | [видеозапись (I часть)](https://ml4es.ru/links/2025-10-06-msu-ml4hydromet-lect01a)<br />[видеозапись (II часть)](https://ml4es.ru/links/2025-10-06-msu-ml4hydromet-lect01b)<br />[Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01_MV.pdf)<br />[Презентация (MK)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01-MK.pdf) |
+| Занятие 2 | 06.10.2025 | Введение в машинное обучение (продолжение). <br /> Технические средства анализа данных. <br /> Разведочный анализ данных. | [Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect02_MV.pdf)<br/>[Ноутбук (Google colab demo)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect02_Colab_demo.ipynb)<br/>[Ноутбук (Python demo)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect02_Python_demo.ipynb)<br />[Ноутбук (EDA demo)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect02_EDA_demo.ipynb)|
+
 
 ## Домашние работы
 Все работы следует оформлять в виде файлов Jupiter Notebook, включающих исходный код, результаты (графики, таблицы и пр.) и текстовые пояснения в формате Markdown.
-Выполненные работы следует присылать на почту ml4hydromet@ml4es.ru. 
 
-| Название | Срок сдачи | Материалы |
-| ----- | ---- | ----- |
+Просьба называть файлы по принципу `f'HW{номер работы}_{фамилия}'`.
+
+Выполненные работы следует присылать на почту `ml4hydromet@ml4es.ru`. 
+
+| Номер | Название | Срок сдачи | Материалы |
+| ---- | ---- | ----- | ------- 
+| 1 | Постановка задачи МО | ~13.10.2025~ <br /> 20.10.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW1_description.md) |
+| 2 | Разведовательный анализ данных | 20.10.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW2_description.md) |
 
 
 ## Готовые коллекции данных для выполнения практических работ
