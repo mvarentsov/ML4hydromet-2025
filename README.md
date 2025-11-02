@@ -14,12 +14,12 @@
 | Занятие 2 | 13.10.2025 | Введение в машинное обучение (продолжение). <br/> Обсуждение ДЗ №1 . <br/>  Технические средства анализа данных. <br/> Разведочный анализ данных| [видеозапись (I часть)](https://ml4es.ru/links/2025-10-13-msu-ml4hydromet-lect02a)<br />[видеозапись (II часть - обсуждение ДЗ)](https://ml4es.ru/links/2025-10-13-msu-ml4hydromet-lect02b)<br /> [видеозапись (III часть - EDA)](https://ml4es.ru/links/2025-10-13-msu-ml4hydromet-lect02c)<br />[Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect02_MV.pdf)<br/>[Ноутбук (Google colab demo)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect02_Colab_demo.ipynb)<br/>[Ноутбук (Python demo)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect02_Python_demo.ipynb)<br />[Ноутбук (EDA demo)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect02_EDA_demo.ipynb)[Презентация (MK)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect01-MK.pdf) |
 | Занятие 3 | 20.10.2025 | Вероятностная постановка задачи МО. <br /> Модели линейной и логистической регрессии. | [Заметки с лекции (MK)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect03_notes_MK.pdf)<br/>[Ноутбук (пример с синтетическими данными)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect03_LR_synthetic_data.ipynb)<br/>[Ноутбук (пример с реальными данными)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect03_LR_real_data.ipynb)|
 | Занятие 4 | 27.10.2025 | Общая последовательность решения задач обучения с учителем.<br/>Признаковое описание объектов в МО.<br/>Проблема переобучения.| [Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect04_MV.pdf)<br/>[Ноутбук (пример с синтетическими данными)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect04_LRext_synthetic_data.ipynb)<br/>[Ноутбук (пример с реальными данными)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect04_LRext_real_data.ipynb)|
-
+| Занятие 5 | 01.11.2025 | Неопределенность в машинном обучении. Кросс-валидация. | [Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/presentations/Lect05_MV.pdf)<br/>[Ноутбук (выборочные статистики)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect05a_CLT_demo.ipynb)<br/>[Ноутбук (бутстреп, синтетические данные)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect05b_Bootstrap_demo_synthetic_data.ipynb)<br/>[Ноутбук (CV, реальные данные)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/examples/Lect05c_CV_real_data.ipynb)<br/>|
 
 ## Домашние работы
 Все работы следует оформлять в виде файлов Jupiter Notebook, включающих исходный код, результаты (графики, таблицы и пр.) и текстовые пояснения в формате Markdown.
 
-Просьба называть файлы по принципу `f'HW{номер работы}_{фамилия}'`.
+Просьба называть файлы по принципу `'HW{номер работы}_{фамилия}'`.
 
 Выполненные работы следует присылать на почту `ml4hydromet@ml4es.ru`. 
 
@@ -28,7 +28,7 @@
 | 1 | Постановка задачи машинного обучения | ~13.10.2025~ <br /> 20.10.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW1_description.md) |
 | 2 | Разведочный анализ данных | 20.10.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW2_description.md) |
 | 3 | Линейная регрессия | 03.11.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW3_description.md) |
-
+| 4 | Оценка качества и неопределенностей модели МО| 10.11.2025 | [Описание](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/homework/HW4_description.md) |
 
 ## Готовые коллекции данных для выполнения практических работ
 
