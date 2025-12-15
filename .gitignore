@@ -16,3 +16,5 @@ examples/catboost_info/learn/events.out.tfevents
 animation.gif
 examples/catboost_info/tmp/cat_feature_index.1a525326-3142c3e4-4db2a182-58ff73ae.tmp
 examples/Lect06c_CV_real_data_DCIPP.ipynb
+.vscode/launch.json
+/examples/catboost_info
